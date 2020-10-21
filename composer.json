@@ -1,5 +1,5 @@
 {
-    "name": "pear/net_dns2",
+    "name": "romaven/netdns2",
     "type": "library",
     "description": "Native PHP DNS Resolver and Updater Library",
     "keywords": [
